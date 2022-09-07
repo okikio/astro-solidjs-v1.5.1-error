@@ -12,9 +12,9 @@
   "devDependencies": {
     "@astrojs/solid-js": "^1.1.0",
     "@astrojs/tailwind": "^1.0.0",
-    "astro": "^1.1.1",
+    "astro": "^1.1.6",
     "monaco-editor": "^0.34.0",
-    "sass": "^1.54.5",
-    "solid-js": "^1.5.1"
+    "sass": "^1.54.8",
+    "solid-js": "^1.5.4"
   }
 }
